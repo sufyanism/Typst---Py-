@@ -13,6 +13,10 @@ Navigate to the folder where you saved app.py using your terminal, then run the 
 ### Step 4: Use the Browser
 Once executed, Streamlit will automatically launch a local web server and open a new tab in  web browser ```(usually at http://localhost:8501)```
 
+## Typst Compile
+``` typst compile excat_document.typ```
+This command will generate pdf 
+
 ## Screenshot
 <img width="1796" height="787" alt="Typst" src="https://github.com/user-attachments/assets/d74ace5f-e88a-43eb-9401-b6b050191665" />
 
